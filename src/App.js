@@ -48,7 +48,7 @@ function App() {
 			const nonce = await cfxClient.cfx.getNextNonce(account);
 			const value = Drip.fromCFX(0);
 			const chainId = 1029;
-			const gasPrice = 10000000000;
+			const gasPrice = 1000000000000;
 			let txInfo = {
 				from: account,
 				to: dripAddress,

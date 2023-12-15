@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/core-mint-drip-tool/static/css/main.e0ad5652.css",
+    "main.js": "/core-mint-drip-tool/static/js/main.c330768c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/core-mint-drip-tool/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.svg": "/core-mint-drip-tool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/core-mint-drip-tool/index.html",
+    "main.e0ad5652.css.map": "/core-mint-drip-tool/static/css/main.e0ad5652.css.map",
+    "main.c330768c.js.map": "/core-mint-drip-tool/static/js/main.c330768c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/core-mint-drip-tool/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ad5652.css",
+    "static/js/main.c330768c.js"
+  ]
+}
