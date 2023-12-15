@@ -12,7 +12,7 @@ function App() {
     const [connected, setConnected] = useState(false);
     const [account, setAccount] = useState("");
     const [client, setClient] = useState(null);
-    const [transition, setTrainsition] = useState(0);
+    const [transition, setTrainsition] = useState("");
 
     const connect = async () => {
         console.log('connect')
